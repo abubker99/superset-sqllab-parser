@@ -7,7 +7,7 @@ A Digital Forensics and Incident Response (DFIR) script that parses raw Apache S
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/yourusername/superset-sqllab-parser.git](https://github.com/yourusername/superset-sqllab-parser.git)
+git clone https://github.com/abubker99/superset-sqllab-parser.git
 cd superset-sqllab-parser
 pip install -r requirements.txt
 ```
